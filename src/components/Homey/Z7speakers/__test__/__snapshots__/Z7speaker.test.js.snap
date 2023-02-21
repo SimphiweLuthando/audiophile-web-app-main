@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="sc-gsnTZi dQNMDL"
+>
+  <div
+    className="sc-dkzDqf"
+  >
+    <h4
+      className="sc-hKMtZM cXPvZu"
+      data-testid="title"
+    >
+      ZX7 SPEAKER
+    </h4>
+    <a
+      className="sc-bczRLJ cwyJdT"
+      color="secondary"
+      hover="secondary"
+      href="/zx7"
+      onClick={[Function]}
+    >
+      SEE PRODUCT
+    </a>
+  </div>
+</div>
+`;

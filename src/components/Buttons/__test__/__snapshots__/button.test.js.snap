@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Primary Button matches snapshot 1`] = `
+<a
+  className="sc-bczRLJ lnGMsn"
+  color="primary"
+  hover="primary"
+  href=""
+  onClick={[Function]}
+>
+  SEE PRODUCT
+</a>
+`;
+
+exports[`Secondary Button matches snapshot 1`] = `
+<a
+  className="sc-bczRLJ cwyJdT"
+  color="secondary"
+  hover="secondary"
+  href=""
+  onClick={[Function]}
+>
+  SEE PRODUCT
+</a>
+`;
